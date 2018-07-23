@@ -7,7 +7,7 @@ Ejemplo de salida del correo:
 Fecha: 2018-07-20 14:16:42.179664
 
 LEADS: 
--------------
+
 Leads totales: XXXX
 Contactados: XXXX
 Intentando Contactar: XXXX
@@ -21,9 +21,10 @@ Warm: XXXX
 Lost: XXXX
 Esperando Respuesta: XXXX
 No Contactados: XXXX
------------
+
+
 OPORTUNIDADES: 
------------
+
 Oportunidades Totales: XXXX
 Dormidas: XXXX
 Negocionado/Revision: XXXX
